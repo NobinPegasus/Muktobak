@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "481832683774",
+    "firebase_url": "https://lastoneforall-d8595.firebaseio.com",
+    "project_id": "lastoneforall-d8595",
+    "storage_bucket": "lastoneforall-d8595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481832683774:android:7234003a8fe536bd1dbdaf",
+        "android_client_info": {
+          "package_name": "com.example.lastoneforall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481832683774-8tdqq488mf4elnibtgs765q4h3npmo1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lastoneforall",
+            "certificate_hash": "44acb1f7852036c9f2490f934ff1b90729bf4a66"
+          }
+        },
+        {
+          "client_id": "481832683774-2lttfaqfnl90e05s7v95qlr8dpqj5nkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByblB3fl7MaPzTbtyzSQk_Nhu27iAXY0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481832683774-2lttfaqfnl90e05s7v95qlr8dpqj5nkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
